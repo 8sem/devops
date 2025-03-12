@@ -117,3 +117,4 @@ public class PrimeNumbers{
 }
 
 docker run -it javaimage
+docker build -t testimage .
